@@ -173,6 +173,6 @@ image::tp3_tests.png[width=100%]
 
 == TP4
 
-Lien vers la [documentation minimale ici](./hellocucumber/report.txt)
+Lien vers la link:./hellocucumber/report.txt[documentation minimale ici]
 
 Je n'ai pas réussi à faire la documentation avec cukedoctor à cause de problèmes d'imports de dépendances maven.
