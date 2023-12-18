@@ -170,3 +170,9 @@ def i_should_get_result_as_result(context, result):
 image::tp3_tests.png[width=100%]
 
 > Je ne sais pas pourquoi il écrit 63 tests sur PyCharm mais il les exécute tous... 
+
+== TP4
+
+Lien vers la [documentation minimale ici](./hellocucumber/report.txt)
+
+Je n'ai pas réussi à faire la documentation avec cukedoctor à cause de problèmes d'imports de dépendances maven.
